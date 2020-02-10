@@ -1,0 +1,41 @@
+@media (max-width: 893px)  {
+    input {
+      margin: 6px;
+    }
+    i.fas.fa-search {
+      top: 34%;
+      left: 13%
+    }
+  }
+  @media (max-width: 893px) and  (min-width: 861px) {
+    i.fas.fa-search {
+      top: 57%;
+      left: 9%
+    }
+  }
+  
+  @media (max-width: 860px) and (min-width: 430px) {
+    label[for="site"] {
+      text-align: left;
+    }
+  }
+  
+  @media (max-width: 582px) {
+    input {
+      margin: 6px;
+    }
+    i.fas.fa-search {
+      top: 34%;
+      left: 12%
+    }
+  }
+  
+  @media (max-width: 577px) {
+    input {
+      margin: 6px;
+    }
+    i.fas.fa-search {
+      top: 39%;
+      left: 12%
+    }
+  }
